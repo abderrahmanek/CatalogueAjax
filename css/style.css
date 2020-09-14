@@ -1,0 +1,22 @@
+div{
+    border: 1px dotted gray;
+    margin: 10px;
+    padding: 10px;
+}
+
+#divCat{
+    display: inline;
+}
+
+table th{
+    padding: 10px;
+    background: darkseagreen;
+    border: 2px gray;
+}
+
+table td{
+    padding: 10px;
+    background: white;
+    border: 1px dotted gray;
+    text-align: center;
+}
